@@ -1,5 +1,5 @@
 /** @type {import('jest').Config} */
-module.exports =  {
+module.exports = {
   testEnvironment: 'node',
   coverageDirectory: 'coverage',
   testMatch: ['**/tests/**/*.test.js'],
